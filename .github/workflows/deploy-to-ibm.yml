@@ -53,7 +53,7 @@ jobs:
         cat > manifest.yml << EOF
         ---
         applications:
-        - name: Arronlong
+        - name: ibm-10086
           memory: 256M
           disk_quota: 1024M
           routes:
